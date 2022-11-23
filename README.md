@@ -117,9 +117,7 @@ Distributed under the GNU License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Soumik Das - [Twitter](https://twitter.com/SoumikD95642409)
-Soumik Das - [INSTA](https://www.instagram.com/itz.raaj.das/)
-Soumik Das - [Linkedlin](https://www.linkedin.com/in/soumik-das-profile/)
+Soumik Das - [Twitter](https://twitter.com/SoumikD95642409) [INSTA](https://www.instagram.com/itz.raaj.das/) [Linkedlin](https://www.linkedin.com/in/soumik-das-profile/)
 
 Project Link: [https://github.com/FalconEthics/Trinetro-Drone](https://github.com/FalconEthics/Trinetro-Drone)
 
