@@ -69,7 +69,7 @@ It's just a concept art for now but i am definitely going to finish the project 
 
 
 
-## Gallery- - 
+## Gallery- 
 
 [![Product Name Screen Shot][product-screenshot2]](https://github.com/FalconEthics/Trinetro-Drone)
 
@@ -117,7 +117,7 @@ Distributed under the GNU License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Soumik Das - [Twitter](https://twitter.com/SoumikD95642409) [INSTA](https://www.instagram.com/itz.raaj.das/) [Linkedlin](https://www.linkedin.com/in/soumik-das-profile/)
+Soumik Das - [Twitter](https://twitter.com/SoumikD95642409) / [INSTA](https://www.instagram.com/itz.raaj.das/) / [Linkedlin](https://www.linkedin.com/in/soumik-das-profile/)
 
 Project Link: [https://github.com/FalconEthics/Trinetro-Drone](https://github.com/FalconEthics/Trinetro-Drone)
 
@@ -125,15 +125,15 @@ Project Link: [https://github.com/FalconEthics/Trinetro-Drone](https://github.co
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/FalconEthics/Trinetro-Drone.svg?style=for-the-badge
 [contributors-url]: https://github.com/FalconEthics/Trinetro-Drone/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/FalconEthics/Trinetro-Drone.svg?style=for-the-badge
 [forks-url]: https://github.com/FalconEthics/Trinetro-Drone/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/FalconEthics/Trinetro-Drone.svg?style=for-the-badge
 [stars-url]: https://github.com/FalconEthics/Trinetro-Drone/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/FalconEthics/Trinetro-Drone.svg?style=for-the-badge
 [issues-url]: https://github.com/FalconEthics/Trinetro-Drone/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/FalconEthics/Trinetro-Drone.svg?style=for-the-badge
 [license-url]: https://github.com/FalconEthics/Trinetro-Drone/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/soumik-das-profile/
