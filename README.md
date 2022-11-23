@@ -67,6 +67,18 @@
 
 It's just a concept art for now but i am definitely going to finish the project in near future The speciality of this drone is in it's name TRi-netro (bengali term for trinity or the three states of the world we live in with - Air Water & Land), the sole purpose of this drone is to do all the drone stuff like surveillance, delivery and etc. but in all three modes of transports it can fly, run on road and sail in water, for now this is all i can share, this is a very first RPAS of it's kind. If i get able to make to reality from just a concept it will be able to serve hunderd's of puposes - military search, Delivery, Space ariel works and etc. If you find it intriguing and want to have more insights about it or want to fund this project then feel free to connect me on linkdin: https://www.linkedin.com/in/soumik-das-profile/
 
+
+
+## Fore more information- 
+
+[![Product Name Screen Shot][product-screenshot2]](https://github.com/FalconEthics/Trinetro-Drone)
+
+[![Product Name Screen Shot][product-screenshot3]](https://github.com/FalconEthics/Trinetro-Drone)
+
+[![Product Name Screen Shot][product-screenshot4]](https://github.com/FalconEthics/Trinetro-Drone)
+
+Fore more information please download the 3d model of it here: <a href="https://github.com/FalconEthics/Trinetro-Drone/blob/main/Trinetro%20Drone%20v43.f3d">Download TD.f3d</a>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -96,7 +108,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU License. See `LICENSE` for more information.
+Distributed under the GNU License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,7 +117,7 @@ Distributed under the GNU License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Soumik Das - [Twitter](thttps://twitter.com/SoumikD95642409)
+Soumik Das - [Twitter](https://twitter.com/SoumikD95642409)
 Soumik Das - [INSTA](https://www.instagram.com/itz.raaj.das/)
 Soumik Das - [Linkedlin](https://www.linkedin.com/in/soumik-das-profile/)
 
@@ -124,10 +136,13 @@ Project Link: [https://github.com/FalconEthics/Trinetro-Drone](https://github.co
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/FalconEthics/Trinetro-Drone/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/FalconEthics/Trinetro-Drone/LICENSE
+[license-url]: https://github.com/FalconEthics/Trinetro-Drone/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/soumik-das-profile/
 [product-screenshot]: https://raw.githubusercontent.com/FalconEthics/Trinetro-Drone/main/Trinetro_Drone_2022-Sep-03_03-44-30AM-000_CustomizedView26681168714.png
+[product-screenshot2]: https://raw.githubusercontent.com/FalconEthics/Trinetro-Drone/main/Trinetro_Drone_2022-Sep-03_04-16-58AM-000_CustomizedView13304029920.png
+[product-screenshot3]: https://raw.githubusercontent.com/FalconEthics/Trinetro-Drone/main/Trinetro_Drone_2022-Sep-03_04-18-29AM-000_CustomizedView9151492485.png
+[product-screenshot4]: https://raw.githubusercontent.com/FalconEthics/Trinetro-Drone/main/Trinetro_Drone_2022-Sep-03_04-22-00AM-000_CustomizedView12173695879.png
 [product-components]: https://raw.githubusercontent.com/FalconEthics/Trinetro-Drone/main/Components.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
