@@ -69,7 +69,7 @@ It's just a concept art for now but i am definitely going to finish the project 
 
 
 
-## Fore more information- 
+## Gallery- - 
 
 [![Product Name Screen Shot][product-screenshot2]](https://github.com/FalconEthics/Trinetro-Drone)
 
